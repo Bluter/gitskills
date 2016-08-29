@@ -1,2 +1,2 @@
 # gitskills
-modified by master.
+modified by master & feature1.
